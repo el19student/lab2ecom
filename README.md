@@ -1,4 +1,4 @@
-# lab2ecom
+# `Lab 2 E-Commerce `
 
 ## Project Setup
 
@@ -6,14 +6,13 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Runs the app in the development mode on [http://localhost:3000]
 
 ```
 npm start
 ```
 
-### Stars the development server
-
+### Compiles and hot-reloads for development
 
 ```
 npm run serve
